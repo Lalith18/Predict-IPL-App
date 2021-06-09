@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146250941590",
+    "firebase_url": "https://predict-ipl-2d9c0.firebaseio.com",
+    "project_id": "predict-ipl-2d9c0",
+    "storage_bucket": "predict-ipl-2d9c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146250941590:android:41a82d56308f2b4fa46eb7",
+        "android_client_info": {
+          "package_name": "com.predict_ipl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146250941590-jnaif56fu0a8uhj1rrj0ib88p79bhies.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yk3hqiE1Y_-ualFXCLvnPWHUeaAYJfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146250941590-jnaif56fu0a8uhj1rrj0ib88p79bhies.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
