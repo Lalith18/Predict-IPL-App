@@ -4,6 +4,6 @@ A Flutter android application in which users score points by predicting on every
 
 ## Features
 
--Global Chat
--Leaderboard
--Email link sign up authentication
+ -Global Chat,
+ -Leaderboard,
+ -Email link sign up authentication
